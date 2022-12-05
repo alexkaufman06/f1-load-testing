@@ -1,0 +1,7 @@
+Local:
+  Host: goaws
+  Port: 4100
+  Region: us-west-2
+  AccountId: "100010001000"
+  Queues:
+    - Name: test-queue
